@@ -1,2 +1,3 @@
-# pstsqlt
-Unofficial PowerShell module for tSQLt
+# PStSQLt
+
+Unofficial PowerShell module for [tSQLt](https://tsqlt.org/).
